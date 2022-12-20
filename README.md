@@ -1,22 +1,11 @@
-## Ola  sou o Bruno Faria, estudande de Enganheria de Sof!
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofaria2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria2021&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Bruno-Csharp" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bruno-Python" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
-  <img align="center" alt="Bruno-Python" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  <img align="center" alt="Bruno-C++" height="50" width="65" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
-  <img align="center" alt="Bruno-JAVA" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Bruno-Python" height="50" width="65" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Bruno-Oracle" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  >
-  
-  </div>
+## 🚀 👨‍💻 Ola Pessoal! Sou o Bruno, estudande de Engenharia de software!
 
+✔️ Tenho 27 anos , Carreira desenvolvida na área de TI como Analista de suporte, apesar de ter uma ampla experiência na área de suporte e infraestrutura venho buscando novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado baseado na necessidade de executar tarefas no cotidiano.
+
+✔️ Focado em programação backend  onde busco um oportunidade para inicio na programação⚡💻.
+
+✔️ Atualmente estudando C# onde tenho focado a maior parte dos meus estudo, estou sempre aberto a conhecer novas linguagens tambem pratico um pouco de Python no meu tempo livre ⚡💻 .
+</br></br>
   ##
  
 <div> 
@@ -28,3 +17,48 @@
  
  
 </div>
+
+
+## 💻 Tecnologias
+
+
+<div style="Tecnologias: inline_block"><br>
+  
+  <img align="center" alt="Bruno-Csharp" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Bruno-Python" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
+  <img align="center" alt="Bruno-Python" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Bruno-C++" height="50" width="65" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
+  <img align="center" alt="Bruno-JAVA" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Bruno-Python" height="50" width="65" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Bruno-Oracle" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  >
+  
+  </div>
+  
+  ##
+
+</br></br>
+ 
+
+<div align="left">
+  <a href="https://github.com/brunofaria2021">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunofaria2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria2021&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+  ##
+ 
+<div> 
+  
+  <a> ✔️ Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador.🚀 </a> 
+ 
+ 
+</div>
+
+## :dart: Status
+<p align="
+LEFT
+">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=loading 30% &color=GREEN&style=for-the-badge"/>
+</p>
