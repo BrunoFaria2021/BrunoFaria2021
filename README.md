@@ -6,7 +6,7 @@
 
 ✔️ Atualmente estudando C# onde tenho focado a maior parte dos meus estudo, estou sempre aberto a conhecer novas linguagens tambem pratico um pouco de Python no meu tempo livre ⚡💻 .
 
-✔️Tambem gosto de pratica um pouco CyberSegurança, admiro a ideia de torna o ambiente WEB mais seguro.
+✔️Tambem gosto de praticar um pouco CyberSegurança, admiro a ideia de torna o ambiente WEB mais seguro.^.
 
 
 </br></br>
