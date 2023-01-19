@@ -1,12 +1,8 @@
-## 🚀 👨‍💻 Olá Pessoal! Sou o Bruno, estudande de Engenharia de software!
+## 🚀 👨‍💻 Olá Pessoal! meu nome é Bruno e sou estudante de Engenharia de software.
 
-✔️ Tenho 27 anos , Carreira desenvolvida na área de TI como Analista de suporte, apesar de ter uma ampla experiência na área de suporte e infraestrutura venho buscando novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado baseado na necessidade de executar tarefas no cotidiano . O que define a senioridade da pessoa é a capacidade de resolver problemas venho buscando aperfeiçoar cada dia mais essa habilidade em min, pois acredito ser uma habilidade indispensável num programador.
+✔️ Tenho 27 anos, carreira desenvolvida na área de TI como Analista de Suporte. Apesar de ter ampla experiência em suporte e infraestrutura, estou em busca de novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado. Isso é motivado pela necessidade de desempenhar tarefas cotidianas de forma mais eficiente.  Acredito que a capacidade de resolver problemas é uma das principais habilidades que define a senioridade de uma pessoa. Por isso, venho me esforçando para aperfeiçoar essa habilidade cada vez mais, pois acredito ser uma habilidade fundamental para um programador.⚡💻
 
-✔️ Focado em programação backend  onde busco um oportunidade para inicio na programação⚡💻.
-
-✔️ Atualmente estudando C# onde tenho focado a maior parte dos meus estudo, estou sempre aberto a conhecer novas linguagens tambem pratico um pouco de Python no meu tempo livre ⚡💻 .
-
-✔️Tambem gosto de praticar um pouco CyberSegurança, admiro a ideia de torna o ambiente WEB mais seguro.^.
+✔️ Atualmente, meu foco está na programação backend, onde busco uma oportunidade para começar minha carreira como programador. Estou estudando principalmente C#, mas também estou sempre aberto a conhecer novas linguagens e pratico um pouco de Python no meu tempo livre. Além disso, também gosto de me envolver com segurança cibernética, admiro a ideia de tornar o ambiente web mais seguro ⚡💻 .
 
 
 </br></br>
