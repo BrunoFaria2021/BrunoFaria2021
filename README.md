@@ -1,6 +1,6 @@
-## 🚀 👨‍💻 Ola Pessoal! Sou o Bruno, estudande de Engenharia de software!
+## 🚀 👨‍💻 Olá Pessoal! Sou o Bruno, estudande de Engenharia de software!
 
-✔️ Tenho 27 anos , Carreira desenvolvida na área de TI como Analista de suporte, apesar de ter uma ampla experiência na área de suporte e infraestrutura venho buscando novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado baseado na necessidade de executar tarefas no cotidiano .O que define a senioridade da pessoa é a capacidade de resolver problemas venho buscando aperfeiçoar cada dia mais essa habilidade em min, pois acredito ser uma habilidade indispensável num programador.
+✔️ Tenho 27 anos , Carreira desenvolvida na área de TI como Analista de suporte, apesar de ter uma ampla experiência na área de suporte e infraestrutura venho buscando novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado baseado na necessidade de executar tarefas no cotidiano . O que define a senioridade da pessoa é a capacidade de resolver problemas venho buscando aperfeiçoar cada dia mais essa habilidade em min, pois acredito ser uma habilidade indispensável num programador.
 
 ✔️ Focado em programação backend  onde busco um oportunidade para inicio na programação⚡💻.
 
