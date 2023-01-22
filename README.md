@@ -1,6 +1,6 @@
 ## 🚀 👨‍💻 Olá Pessoal! meu nome é Bruno e sou estudante de Engenharia de software.
 
-✔️ Tenho 27 anos, carreira desenvolvida na área de TI como Analista de Suporte. Apesar de ter ampla experiência em suporte e infraestrutura, estou em busca de novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado. Isso é motivado pela necessidade de desempenhar tarefas cotidianas de forma mais eficiente.  Acredito que a capacidade de resolver problemas é uma das principais habilidades que define a senioridade de uma pessoa. Por isso, venho me esforçando para aperfeiçoar essa habilidade cada vez mais, pois acredito ser uma habilidade fundamental para um programador.⚡💻
+✔️ Tenho 27 anos, carreira desenvolvida na área de TI como Analista de Suporte. Apesar de ter ampla experiência em suporte e infraestrutura, estou em busca de novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado. Isso é motivado pela necessidade de desempenhar tarefas cotidianas de forma mais eficiente.  <b>Acredito que a capacidade de resolver problemas é uma das principais habilidades que define a senioridade de uma pessoa.</b> Por isso, venho me esforçando para aperfeiçoar essa habilidade cada vez mais, pois acredito ser uma habilidade fundamental para um programador.⚡💻
 
 ✔️ Atualmente, meu foco está na programação backend, onde busco uma oportunidade para começar minha carreira como programador. Estou estudando principalmente C#, mas também estou sempre aberto a conhecer novas linguagens e pratico um pouco de Python no meu tempo livre. Além disso, também gosto de me envolver com segurança cibernética, admiro a ideia de tornar o ambiente web mais seguro ⚡💻 .
 
@@ -24,19 +24,29 @@
 
 <div style="Tecnologias: inline_block"><br>
   
-  <img align="center" alt="Bruno-Csharp" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bruno-Python" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
-  <img align="center" alt="Bruno-Python" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Bruno-C++" height="50" width="65" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
-  <img align="center" alt="Bruno-JAVA" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Bruno-Python" height="50" width="65" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Bruno-Oracle" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  >
-   <img align="center" alt="HTML" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-    <img align="center" alt="HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Bruno-Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Bruno-Python" height="80" width="80"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
+<img align="center" alt="Docker" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="Azure" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" />
+<img align="center" alt="Bruno-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+<img align="center" alt="Bruno-C++" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
+<img align="center" alt="Bruno-JAVA" height="80" width="80"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+<img align="center" alt="Bruno-Python" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Bruno-Oracle" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  >
+<img align="center" alt="HTML" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="center" alt="HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     
   </div>
   
          
+
+           
+            
+          
+          
+          
+          
           
   ##
 
