@@ -1,8 +1,8 @@
 ## 🚀 👨‍💻 Olá Pessoal! meu nome é Bruno e sou estudante de Engenharia de software.
 
-✔️ Tenho 27 anos, carreira desenvolvida na área de TI como Analista de Suporte. Apesar de ter ampla experiência em suporte e infraestrutura, estou em busca de novos desafios na área de programação para colocar em prática meus conhecimentos e acelerar minha curva de aprendizado. Isso é motivado pela necessidade de desempenhar tarefas cotidianas de forma mais eficiente.  <b>Acredito que a capacidade de resolver problemas é uma das principais habilidades que define a senioridade de uma pessoa.</b> Por isso, venho me esforçando para aperfeiçoar essa habilidade cada vez mais, pois acredito ser uma habilidade fundamental para um programador.⚡💻
+✔️Tenho 27 anos e construí minha carreira na área de TI como Analista de Suporte. Apesar da ampla experiência em suporte e infraestrutura, estou ansioso por novos desafios na programação para aplicar meus conhecimentos e acelerar meu crescimento. Busco eficiência nas tarefas diárias e considero a resolução de problemas como uma habilidade crucial para a senioridade.⚡💻
 
-✔️ Atualmente, meu foco está na programação backend, onde busco uma oportunidade para começar minha carreira como programador. Estou estudando principalmente C#, mas também estou sempre aberto a conhecer novas linguagens e pratico um pouco de Python no meu tempo livre. Além disso, também gosto de me envolver com segurança cibernética, admiro a ideia de tornar o ambiente web mais seguro ⚡💻 .
+✔️ Atualmente, estou focado na programação backend, com destaque para C#. Estou prestes a concluir minha formação em Engenharia de Software e estou em um estágio como desenvolvedor backend C# .NET. Além disso, dedico parte do meu tempo livre para explorar linguagens como Python e também me interesso por segurança cibernética, buscando contribuir para um ambiente web mais seguro. ⚡💻
 
 
 </br></br>
