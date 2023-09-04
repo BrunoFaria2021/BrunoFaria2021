@@ -1,6 +1,6 @@
 ## 🚀 👨‍💻 Olá Pessoal! meu nome é Bruno e sou estudante de Engenharia de software.
 
-👨‍💻 Atualmente, sou um desenvolvedor Backend experiente, com foco em C# .NET. Minha jornada profissional começou como Analista de Suporte, onde adquiri conhecimentos valiosos em suporte e infraestrutura de TI. Agora, estou totalmente imerso na programação, aplicando minha experiência anterior para impulsionar meu crescimento como desenvolvedor. Resolução de problemas é uma habilidade que considero crucial, e busco a eficiência em todas as tarefas que enfrento. ⚡💻
+👨‍💻 Atualmente, sou um desenvolvedor Backend, com foco em C# .NET. Minha jornada profissional começou como Analista de Suporte, onde adquiri conhecimentos valiosos em suporte e infraestrutura de TI. Agora, estou totalmente imerso na programação, aplicando minha experiência anterior para impulsionar meu crescimento como desenvolvedor. Resolução de problemas é uma habilidade que considero crucial, e busco a eficiência em todas as tarefas que enfrento. ⚡💻
 
 🚀 Além da minha atuação como desenvolvedor, estou dedicado a aprimorar minha lógica de programação, especialmente com C#. Estou prestes a concluir minha formação em Engenharia de Software e estou empenhado em um estágio como desenvolvedor Backend C# .NET. No futuro, planejo direcionar meus estudos para a área de arquitetura de software, aprofundando ainda mais meu conhecimento em design de sistemas escaláveis e eficientes. ⚡💻
 
