@@ -1,9 +1,12 @@
 ## 🚀 👨‍💻 Olá Pessoal! meu nome é Bruno e sou estudante de Engenharia de software.
 
-✔️Tenho 27 anos e construí minha carreira na área de TI como Analista de Suporte. Apesar da ampla experiência em suporte e infraestrutura, estou ansioso por novos desafios na programação para aplicar meus conhecimentos e acelerar meu crescimento. Busco eficiência nas tarefas diárias e considero a resolução de problemas como uma habilidade crucial para a senioridade.⚡💻
+👨‍💻 Atualmente, sou um desenvolvedor Backend experiente, com foco em C# .NET. Minha jornada profissional começou como Analista de Suporte, onde adquiri conhecimentos valiosos em suporte e infraestrutura de TI. Agora, estou totalmente imerso na programação, aplicando minha experiência anterior para impulsionar meu crescimento como desenvolvedor. Resolução de problemas é uma habilidade que considero crucial, e busco a eficiência em todas as tarefas que enfrento. ⚡💻
 
-✔️ Atualmente, estou focado na programação backend, com destaque para C#. Estou prestes a concluir minha formação em Engenharia de Software e estou em um estágio como desenvolvedor backend C# .NET. Além disso, dedico parte do meu tempo livre para explorar linguagens como Python e também me interesso por segurança cibernética, buscando contribuir para um ambiente web mais seguro. ⚡💻
+🚀 Além da minha atuação como desenvolvedor, estou dedicado a aprimorar minha lógica de programação, especialmente com C#. Estou prestes a concluir minha formação em Engenharia de Software e estou empenhado em um estágio como desenvolvedor Backend C# .NET. No futuro, planejo direcionar meus estudos para a área de arquitetura de software, aprofundando ainda mais meu conhecimento em design de sistemas escaláveis e eficientes. ⚡💻
 
+📘 Sou o fundador do ThreeDevelopers, um projeto concebido para promover o estudo contínuo e o crescimento na área de desenvolvimento de software. Acreditamos firmemente que a aprendizagem constante é a chave para o sucesso em um campo em constante evolução.
+
+🌐 Estou entusiasmado para colaborar, aprender e compartilhar meu conhecimento aqui no GitHub. Se você estiver interessado em projetos relacionados a C#, Python, segurança cibernética ou arquitetura de software, vamos nos conectar e criar juntos! 🤝
 
 </br></br>
   ##
