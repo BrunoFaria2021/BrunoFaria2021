@@ -6,7 +6,7 @@
 
 📘 Sou o fundador do ThreeDevelopers, um projeto concebido para promover o estudo contínuo e o crescimento na área de desenvolvimento de software. Acreditamos firmemente que a aprendizagem constante é a chave para o sucesso em um campo em constante evolução.
 
-🌐 Estou entusiasmado para colaborar, aprender e compartilhar meu conhecimento aqui no GitHub. Se você estiver interessado em projetos relacionados a C#, Python, segurança cibernética ou arquitetura de software, vamos nos conectar e criar juntos! 🤝
+🌐 Estou entusiasmado para colaborar, aprender e compartilhar meu conhecimento aqui no GitHub. Se você estiver interessado em projetos relacionados a C#, segurança cibernética ou arquitetura de software, vamos nos conectar e criar juntos! 🤝
 
 </br></br>
   ##
