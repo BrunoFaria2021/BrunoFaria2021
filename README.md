@@ -1,8 +1,8 @@
-## 🚀 👨‍💻 Olá Pessoal! meu nome é Bruno e sou estudante de Engenharia de software.
+## 🚀 👨‍💻 Olá Pessoal! meu nome é Bruno, um estudante dedicado de Engenharia de Software.
 
-👨‍💻 Atualmente, sou um desenvolvedor Backend, com foco em C# .NET. Minha jornada profissional começou como Analista de Suporte, onde adquiri conhecimentos valiosos em suporte e infraestrutura de TI. Agora, estou totalmente imerso na programação, aplicando minha experiência anterior para impulsionar meu crescimento como desenvolvedor. Resolução de problemas é uma habilidade que considero crucial, e busco a eficiência em todas as tarefas que enfrento. ⚡💻
+👨‍💻 Sou um desenvolvedor Backend .NET, uma empresa de tecnologia que oferece soluções inovadoras para diversos segmentos. Tenho mais de três anos de experiência em programação C# orientada a objetos, aplicando princípios SOLID e DDD, com foco na manutenção e expansão de projetos. Também tenho habilidades em desenvolvimento Frontend com JavaScript, criação de REST APIs no .NET Core 6 e utilização do Asp .Net Framework 4.7 com Entity Framework, incluindo a manutenção de sistemas legados.
 
-🚀 Além da minha atuação como desenvolvedor, estou dedicado a aprimorar minha lógica de programação, especialmente com C#. Estou prestes a concluir minha formação em Engenharia de Software e estou empenhado em um estágio como desenvolvedor Backend C# .NET. No futuro, planejo direcionar meus estudos para a área de arquitetura de software, aprofundando ainda mais meu conhecimento em design de sistemas escaláveis e eficientes. ⚡💻
+Além da minha atuação como desenvolvedor, estou dedicado a aprimorar minha lógica de programação, especialmente com C#. Estou prestes a concluir minha formação em Engenharia de Software e estou empenhado em um estágio como desenvolvedor Backend C# .NET. No futuro, planejo direcionar meus estudos para a área de arquitetura de software, aprofundando ainda mais meu conhecimento em design de sistemas escaláveis e eficientes. Sou o fundador do ThreeDevelopers, um projeto concebido para promover o estudo contínuo e o crescimento na área de desenvolvimento de software. Acredito firmemente que a aprendizagem constante é a chave para o sucesso em um campo em constante evolução. Estou entusiasmado para colaborar, aprender e compartilhar meu conhecimento aqui. ⚡💻
 
 📘 Sou o fundador do ThreeDevelopers, um projeto concebido para promover o estudo contínuo e o crescimento na área de desenvolvimento de software. Acreditamos firmemente que a aprendizagem constante é a chave para o sucesso em um campo em constante evolução.
 
@@ -33,10 +33,6 @@
 <img align="center" alt="Azure" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" />
 <img align="center" alt="Bruno-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-<img align="center" alt="Bruno-C++" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
-<img align="center" alt="Bruno-JAVA" height="80" width="80"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-<img align="center" alt="Bruno-Python" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img align="center" alt="Bruno-Oracle" height="50" width="65"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  >
 <img align="center" alt="HTML" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="center" alt="HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
      
